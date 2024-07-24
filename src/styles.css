@@ -20,7 +20,9 @@
   :root {
     --font-family: "Roboto", sans-serif;
     --primary: #546de5;
+    /* --primary: goldenrod; */
     --secondary: #778beb;
+    /* --secondary: rgb(212, 184, 111); */
     --accent: #e5546d;
     --lightgray: #ddd;
     --text-regular: #444;

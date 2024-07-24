@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
 import { HeaderComponent } from './header/header.component';
-import { Cocktail } from '../shared/interfaces/cocktail.interface';
+import { Cocktail } from './shared/interfaces/cocktail.interface';
 import { CocktailListComponent } from './cocktail-container/cocktail-list/cocktail-list.component';
 import { CocktailDetailsComponent } from './cocktail-container/cocktail-details/cocktail-details.component';
 import { CocktailContainerComponent } from './cocktail-container/cocktail-container.component';
