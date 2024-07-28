@@ -122,3 +122,7 @@
 .pl-10 {
   padding-left: 10px;
 }
+
+.active {
+  background-color: var(--secondary);
+}
